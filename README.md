@@ -17,6 +17,8 @@ root/
  └── README.md
 ```
 
+
+
 ---
 
 ## 📌 Instrucciones Generales
